@@ -19,7 +19,7 @@ This is the repo for the Blether API, as a forward thinker I envisioned using mo
 
 ## How to run it
 
-This project is quite old, so you might ahve to look at the documentation for the framework it uses.
+This project is quite old, so you might have to look at the documentation for the framework it uses.
 
 In theory:
 `composer install`
